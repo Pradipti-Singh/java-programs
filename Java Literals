@@ -17,6 +17,7 @@ public class G4_literals {
         System.out.println(f1);
         System.out.println(d1);
         System.out.println(b);
+        system.out.println(str);
 
     }
 }
