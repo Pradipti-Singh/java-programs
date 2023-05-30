@@ -10,3 +10,13 @@ public class KilometersToMiles {
         System.out.println("The converted value of given value is "+ml+" miles.");
     }
 }
+
+/*
+OUTPUT
+Enter the kilometer value:
+45
+Kilometer value = 45.0
+The converted value of given value is 27.961695 miles.
+*/
+    
+ 
