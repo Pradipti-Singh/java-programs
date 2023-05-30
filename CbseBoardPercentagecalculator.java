@@ -31,3 +31,18 @@ public class CbseBoardPercentagecalculator {
 
     }
 }
+
+/*
+OUTPUT
+Enter total marks
+500
+Enter Marks of the following subjects:
+Maths = 88
+Science = 93
+Social Science = 95
+English = 93
+Hindi/ any other main subject = 91
+Total marks obtained = 460.0
+Total marks =  500
+Percentage obtained = 92.0%
+*/
