@@ -43,6 +43,11 @@ public class PrecedenceAndAssociativity {
         int u = 1;
         int e1 = v*v-u*u;
         System.out.println(e1);
+        
+        //Practice set - Q. 7/4*9/2
+        float a3 = 7/4.0f*9/2.0f;
+        System.out.println(a3);
+
    }
 }
 
@@ -54,5 +59,5 @@ public class PrecedenceAndAssociativity {
 -1
 16
 3
-
+7.875
 */
