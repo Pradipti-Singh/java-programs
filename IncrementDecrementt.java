@@ -25,3 +25,23 @@ public class IncrementDecrementt {
 
     }
 }
+
+//OUTPUT
+/*
+
+For ++y:
+x = 8
+sum = 16
+ 
+For y++:
+x1 = 7
+y1 = 8
+sum = 15
+
+For char:
+b
+b
+b
+c
+
+*/
