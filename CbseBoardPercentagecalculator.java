@@ -18,15 +18,11 @@ public class CbseBoardPercentagecalculator {
         float m5 = sc.nextFloat();
 
         float sum = m1 + m2 + m3 + m4 + m5  ;
-        System.out.print("Total marks obtained = ");
-        System.out.println(sum);
-        System.out.print("Total marks =  ");
-        System.out.println(tm);
+        System.out.print("Total marks obtained = "+sum);
+        System.out.print("Total marks =  "+tm);
         float pt = (sum*100)/tm;
-        System.out.print("Percentage obtained = ");
-        System.out.print(pt);
-        System.out.println("%");
-
+        System.out.print("Percentage obtained = "+pt+"%");
+        
 
 
     }
