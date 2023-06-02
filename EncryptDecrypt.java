@@ -9,3 +9,9 @@ public class EncryptDecrypt {
         System.out.println(grade);
     }
 }
+
+//OUTPUT
+/*
+J
+B
+*/
